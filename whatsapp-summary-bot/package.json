@@ -1,0 +1,29 @@
+{
+  "name": "whatsapp-summary-bot",
+  "version": "3.0.0",
+  "description": "AI-powered WhatsApp group summarizer using Groq (Llama 3.3 70B) and Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pm2": "pm2 start index.js --name summary-bot"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "summarizer",
+    "groq",
+    "llama",
+    "telegram",
+    "maintenance",
+    "indonesia"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "qrcode": "^1.5.3",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}

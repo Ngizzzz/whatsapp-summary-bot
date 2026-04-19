@@ -1,0 +1,28 @@
+# Credentials & Secrets
+.env
+credentials.json
+*.key
+*.pem
+
+# WhatsApp Session (JANGAN upload ke GitHub)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Bot Data (berisi percakapan pribadi)
+data/
+last_online.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# PM2
+.pm2/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
