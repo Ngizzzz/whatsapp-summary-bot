@@ -6,13 +6,6 @@ Bot ini secara otomatis membaca pesan dari grup-grup WhatsApp kerja dan merangku
 
 ---
 
-## 🚀 Latar Belakang
-
-Saya seorang maintenance planner di perusahaan pelayaran. Setiap hari harus memantau **61 grup WhatsApp kerja** — laporan kerusakan kapal, koordinasi tim, update pekerjaan, semua campur aduk.
-
-Saya bukan programmer. Tapi dengan bantuan Claude AI, saya berhasil membangun bot ini dari nol dalam beberapa hari sambil tetap bekerja. Total biaya: **~Rp 42.000/bulan**.
-
----
 
 ## ✨ Fitur Utama
 
@@ -82,17 +75,17 @@ data/
 📋 PTK - CB Kumawa Spirit
 🕐 19 April 2026, 17.00 WIB
 
-• Budi melaporkan engine kiri KM Kumawa Spirit bunyi aneh sejak 
+• Budi melaporkan engine kiri Kapal A bunyi aneh sejak 
   pagi — diduga masalah rubber coupling gearbox.
 • Andi mengirim foto kondisi gearbox (08.33) dan meminta 
-  konfirmasi Roi sebelum order part.
-• Roi mengarahkan cek ketersediaan spare di gudang PTK dulu 
+  konfirmasi Toni sebelum order part.
+• Toni mengarahkan cek ketersediaan spare di gudang Jakarta dulu 
   sebelum buat PR.
-• Ferry menginfokan KM Kumawa Spirit dijadwalkan sandar besok 
+• Feri menginfokan Kapal A dijadwalkan sandar besok 
   pagi jam 06.00.
 
 ⚠️ Belum Selesai:
-• Roi belum konfirmasi foto gearbox dari Andi
+• Toni belum konfirmasi foto gearbox dari Andi
 • Ketersediaan rubber coupling di gudang belum dicek
 ```
 
