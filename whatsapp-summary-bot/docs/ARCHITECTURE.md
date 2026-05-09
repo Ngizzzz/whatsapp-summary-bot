@@ -50,7 +50,7 @@ Fakta permanen tentang grup — tidak berubah kecuali ada update signifikan.
 
 ```json
 {
-  "grup": "PTK - CB Kumawa Spirit",
+  "grup": "Kerja",
   "terakhir_update": "21 April 2026, 00.00 WIB",
   "ringkasan": "Kapal CB Kumawa Spirit beroperasi rute Balikpapan-Bontang. 
   Tim teknisi: Budi (Chief Engineer), Andi (asisten). Masalah berulang: 
